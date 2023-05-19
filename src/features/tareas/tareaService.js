@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 //const API_URL = 'http://localhost:4000/api/tareas/'
-const API_URL = 'https://good-tick-jodhpurs.cyclic.app/api/tareas/'
+const API_URL = 'https://colorful-woolens-goat.cyclic.app/api/tareas/'
 
 //crear una nueva tarea
 //recibe datos de tarea y token

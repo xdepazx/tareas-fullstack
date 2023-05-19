@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 //const API_URL = 'http://localhost:4000/api/users/';
-const API_URL = 'https://good-tick-jodhpurs.cyclic.app/api/users/'
+const API_URL = 'https://colorful-woolens-goat.cyclic.app/api/users/'
 
 const register = async (userData) => {
 
