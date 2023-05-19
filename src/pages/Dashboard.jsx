@@ -28,12 +28,9 @@ const Dashboard = () => {
     return () => {
       dispatch(reset())
     }
-    
 
     //cuando se desmonte el componente, se resetee el state de las tareas
-    return () =>  {
-      dispatch(reset())
-    }
+    
 
   }, [user, navigate, isError, message, dispatch])
 
